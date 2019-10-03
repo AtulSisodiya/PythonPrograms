@@ -3,7 +3,7 @@ name=input()
 if name =="arya stark":
 	print("valar monghulis")
 elif name =="jon snow":
-	print("winer is coming")
+	print("winter is coming")
 else:
 	print("radhe radhe")
 
